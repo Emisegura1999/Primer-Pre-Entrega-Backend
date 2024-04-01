@@ -1,0 +1,156 @@
+[
+  {
+    "id": "1",
+    "title": "Monitor",
+    "description": "Monitor Gamer",
+    "code": "NP001",
+    "price": 29.99,
+    "status": true,
+    "stock": 50,
+    "category": "Electrónicos",
+    "thumbnails": [
+      "url9",
+      "url10"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Producto 2",
+    "description": "Descripción del Producto 2",
+    "code": "P002",
+    "price": 19.99,
+    "status": true,
+    "stock": 30,
+    "category": "Electrónicos",
+    "thumbnails": [
+      "url11",
+      "url12"
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Producto 4",
+    "description": "Descripción del Producto 4",
+    "code": "P004",
+    "price": 14.99,
+    "status": true,
+    "stock": 40,
+    "category": "Ropa",
+    "thumbnails": [
+      "url15",
+      "url16"
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Producto 5",
+    "description": "Descripción del Producto 5",
+    "code": "P005",
+    "price": 34.99,
+    "status": true,
+    "stock": 10,
+    "category": "Electrónicos",
+    "thumbnails": [
+      "url17",
+      "url18"
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Producto 6",
+    "description": "Descripción del Producto 6",
+    "code": "P006",
+    "price": 49.99,
+    "status": true,
+    "stock": 15,
+    "category": "Hogar",
+    "thumbnails": [
+      "url19",
+      "url20"
+    ]
+  },
+  {
+    "id": "7",
+    "title": "Producto 7",
+    "description": "Descripción del Producto 7",
+    "code": "P007",
+    "price": 39.99,
+    "status": true,
+    "stock": 25,
+    "category": "Ropa",
+    "thumbnails": [
+      "url21",
+      "url22"
+    ]
+  },
+  {
+    "id": "8",
+    "title": "Producto 8",
+    "description": "Descripción del Producto 8",
+    "code": "P008",
+    "price": 54.99,
+    "status": true,
+    "stock": 5,
+    "category": "Electrónicos",
+    "thumbnails": [
+      "url23",
+      "url24"
+    ]
+  },
+  {
+    "id": "9",
+    "title": "Producto 9",
+    "description": "Descripción del Producto 9",
+    "code": "P009",
+    "price": 64.99,
+    "status": false,
+    "stock": 12,
+    "category": "Hogar",
+    "thumbnails": [
+      "url25",
+      "url26"
+    ]
+  },
+  {
+    "id": "10",
+    "title": "Producto 10",
+    "description": "Descripción del Producto 10",
+    "code": "P010",
+    "price": 74.99,
+    "status": true,
+    "stock": 8,
+    "category": "Ropa",
+    "thumbnails": [
+      "url27",
+      "url28"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Producto 3",
+    "description": "Descripción del Producto 3",
+    "code": "P003",
+    "price": 25.99,
+    "status": true,
+    "stock": 56,
+    "category": "Tecnologia",
+    "thumbnails": [
+      "url19",
+      "url17"
+    ]
+  },
+  {
+    "title": "Producto 11",
+    "description": "Notebook",
+    "price": 25.99,
+    "code": "P0011",
+    "stock": 56,
+    "category": "Tecnologia",
+    "status": true,
+    "thumbnails": [
+      "url19",
+      "url17"
+    ],
+    "id": "11"
+  }
+]
